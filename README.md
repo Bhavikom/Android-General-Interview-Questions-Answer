@@ -19,6 +19,12 @@
       Caster.io
       Droidcon.com
       KotlinConf.com
+      AndroidWave.com
+      digitalocean.com
+      tutorialspoint.com
+      geeksforgeeks.org
+      abhiandroid.com
+      mindorks.com
      
 **6. Why do you consider yourself a Senior Developer? Who is a senior developer? What is the definition of being a Senior Developer?**
 
