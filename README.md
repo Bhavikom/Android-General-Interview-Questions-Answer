@@ -55,3 +55,13 @@
 
 **16. Describe Test-Driven Development (TDD).**
 
+**17. How familiar you are with the Android and Google Guidelines ?**
+
+**18. Explain unit tests versus functional tests ?**
+
+**19. Describe Scrum and Kanban ?**
+
+**20. How do you ensure that you are working efficiently ?**
+
+**21. Do you have basic familiarity with working on the command line i.e. Gradle, Ant, or the Java Compiler ?
+
