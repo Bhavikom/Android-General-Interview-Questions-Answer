@@ -1,15 +1,17 @@
 
 # Android-General-Interview-Questions-Answer
 
-**1. What were your last 3 applications? which was the best? and why ?**
+**1. Tell me about Yourself ?**
 
-**2. What is your favourite programming language? - and why?**
+**2. What were your last 3 applications? which was the best? and why ?**
 
-**3. How would you describe the software lifecycle at your most recent position? What did you enjoy the most? What would have you liked to change?**
+**3. What is your favourite programming language? - and why?**
 
-**4. What was the most challenging thing you have done in an application?**
+**4. How would you describe the software lifecycle at your most recent position? What did you enjoy the most? What would have you liked to change?**
 
-**5. Which websites and blogs you use as Android references?**
+**5. What was the most challenging thing you have done in an application?**
+
+**6. Which websites and blogs you use as Android references?**
 
       developer.android
       StackOverflow
@@ -26,42 +28,42 @@
       abhiandroid.com
       mindorks.com
      
-**6. Why do you consider yourself a Senior Developer? Who is a senior developer? What is the definition of being a Senior Developer?**
+**7. Why do you consider yourself a Senior Developer? Who is a senior developer? What is the definition of being a Senior Developer?**
 
       Being senior is mostly about sharing, your knowledge, experience, time, ...
       
-**7. Do you do any Documentations?**
+**8. Do you do any Documentations?**
 
-**8. What is your most proud Android development?**
+**9. What is your most proud Android development?**
 
-**9. What’s your weakness and power in Android development?**
+**10. What’s your weakness and power in Android development?**
 
-**10. What project management tools have you used before?**
+**11. What project management tools have you used before?**
 
       Scrumboard
       Jira
       asana
       Trello
       
-**11. Are you familiar with Agile, SCRUM, Sprint, , ...?**
+**12. Are you familiar with Agile, SCRUM, Sprint, , ...?**
 
-**12. What are the aspects of your job that you really enjoy?**
+**13. What are the aspects of your job that you really enjoy?**
 
-**13. What type of team you like to work in?**
+**14. What type of team you like to work in?**
 
-**14. Teach me something!?**
+**15. Teach me something!?**
 
-**15. What is GitFlow? do you follow it?**
+**16. What is GitFlow? do you follow it?**
 
-**16. Describe Test-Driven Development (TDD).**
+**17. Describe Test-Driven Development (TDD).**
 
-**17. How familiar you are with the Android and Google Guidelines ?**
+**18. How familiar you are with the Android and Google Guidelines ?**
 
-**18. Explain unit tests versus functional tests ?**
+**19. Explain unit tests versus functional tests ?**
 
-**19. Describe Scrum and Kanban ?**
+**20. Describe Scrum and Kanban ?**
 
-**20. How do you ensure that you are working efficiently ?**
+**21. How do you ensure that you are working efficiently ?**
 
-**21. Do you have basic familiarity with working on the command line i.e. Gradle, Ant, or the Java Compiler ?**
+**22. Do you have basic familiarity with working on the command line i.e. Gradle, Ant, or the Java Compiler ?**
 
